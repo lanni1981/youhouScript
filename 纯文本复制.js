@@ -1,11 +1,7 @@
 // ==UserScript==
 // @name         纯文本复制
 // @namespace    http://tampermonkey.net/
-<<<<<<< HEAD
-// @version      0.13
-=======
-// @version      0.11
->>>>>>> parent of ec41910 (version      0.2)
+// @version      0.14
 // @description  仅复制纯文本，不带格式
 // @author       Lennie
 // @match        *://*
