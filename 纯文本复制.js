@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         纯文本复制
 // @namespace    http://tampermonkey.net/
-// @version      0.1.1
+// @version      0.11
 // @description  仅复制纯文本，不带格式
 // @author       Lennie
 // @match        *://*
